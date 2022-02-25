@@ -8,6 +8,7 @@ class RestInKuberApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		println("Hello")
 	}
 
 }
